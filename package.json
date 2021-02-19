@@ -1,0 +1,22 @@
+{
+  "name": "cloudash",
+  "version": "1.0.0",
+  "description": "Like lodash for cloud utility functions",
+  "main": "aws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albankora/cloudash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albankora/cloudash/issues"
+  },
+  "homepage": "https://github.com/albankora/cloudash#readme",
+  "dependencies": {
+    "aws-sdk": "^2.847.0"
+  }
+}
