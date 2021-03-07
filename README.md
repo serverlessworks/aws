@@ -1,5 +1,5 @@
-# cloudash
-Like `lodash` for cloud utility functions
+# aws
+A wrapper around aws-sdk functionalities
 
 This utility uses several environment variables to work and expect them to be present
 
